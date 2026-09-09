@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad a cheannaíonn tíortha an AE i ndáiríre maidir le táirgí cosanta atá déanta san Eoraip?",
+  "subtitle": "B'ionann allmhairí ó bhallstáit eile an AE agus 22.9% de na hairm a seachadadh chuig tíortha an AE in 2025, méadú de thart ar 19% i gcomparáid le 2022 (19.2%).",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Léiríonn na figiúirí méid na bpríomh-arm traidisiúnta a seachadadh in 2025, arna thomhas i Luachanna Táscaire Treochta SIPRI (TIV) — innéacs cumais mhíleata, ní praghas, mar sin is sciaranna toirte iad seo agus ní méideanna airgid. Meastar táirgeadh ceadúnaithe mar allmhairiú ón tír a dheonaíonn an ceadúnas. Níl airm bheaga, armlón, comhpháirteanna agus seirbhísí san áireamh. Níor allmhairigh Lucsamburg ná an Phortaingéil aon rud ó sholáthraithe AE in 2025; níor thaifead an Laitvia, Málta ná an tSlóivéin aon seachadtaí ar chor ar bith.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "SIPRI (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
