@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko zemlje EU zapravo kupuju robe proizvedene u Europi kada je u pitanju obrana?",
+  "subtitle": "Uvoz iz drugih država članica EU činio je 22,9% oružja isporučenog zemljama EU-a u 2025. godini, što je povećanje od oko 19% u usporedbi s 2022. (19,2%).",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Brojke pokazuju količinu glavnog konvencionalnog oružja isporučenog 2025. godine, mjerenu u SIPRI vrijednostima indikatora trenda (TIV) - indeksu vojne sposobnosti, a ne cijene, pa su to udjeli količine, a ne novčani iznosi. Licencirana proizvodnja računa se kao uvoz iz zemlje koja izdaje licencu. Isključeni su malo oružje, streljivo, komponente i usluge. Luksemburg i Portugal nisu ništa uvezli od dobavljača iz EU-a 2025. godine; Latvija, Malta i Slovenija uopće nisu zabilježile isporuke.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "SIPRI (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
