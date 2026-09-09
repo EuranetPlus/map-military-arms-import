@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur mycket köper EU-länderna egentligen från Europaproducerade försvarsprodukter?",
+  "subtitle": "Importen från andra EU-länder stod för 22,9 % av de vapen som levererades till EU-länder år 2025, en ökning med cirka 19 % jämfört med 2022 (19,2 %).",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Siffrorna visar volymen av större konventionella vapen som levererades 2025, mätt i SIPRI Trend-Indicator Values (TIV) – ett index för militär förmåga, inte pris, så dessa är volymandelar och inte monetära belopp. Licensierad produktion räknas som import från det land som beviljar licensen. Handeldvapen, ammunition, komponenter och tjänster är undantagna. Luxemburg och Portugal importerade ingenting från EU-leverantörer 2025; Lettland, Malta och Slovenien registrerade inga leveranser alls.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "SIPRI (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
