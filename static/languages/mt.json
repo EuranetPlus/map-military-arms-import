@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm fil-fatt jixtru l-pajjiżi tal-UE prodotti Magħmula fl-Ewropa f’dak li għandu x’jaqsam mad-difiża?",
+  "subtitle": "L-importazzjonijiet minn stati membri oħra tal-UE ammontaw għal 22.9% tal-armi kkunsinnati lill-pajjiżi tal-UE fl-2025, żieda ta’ madwar 19% meta mqabbla mal-2022 (19.2%).",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Iċ-ċifri juru l-volum ta’ armi konvenzjonali ewlenin ikkunsinnati fl-2025, imkejla f’Valuri Indikaturi tax-Xejra tas-SIPRI (TIV) — indiċi tal-kapaċità militari, mhux tal-prezz, għalhekk dawn huma ishma tal-volum u mhux ammonti monetarji. Il-produzzjoni liċenzjata tgħodd bħala importazzjoni mill-pajjiż li jagħti l-liċenzja. Armi żgħar, munizzjon, komponenti u servizzi huma esklużi. Il-Lussemburgu u l-Portugall ma importaw xejn mingħand fornituri tal-UE fl-2025; il-Latvja, Malta u s-Slovenja ma rreġistraw l-ebda kunsinna.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "SIPRI (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
