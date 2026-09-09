@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mennyit vásárolnak valójában az uniós országok Európában gyártott termékeket védelmi célokra?",
+  "subtitle": "Az EU más tagállamaiból származó import a 2025-ben az EU-országokba szállított fegyverek 22,9%-át tette ki, ami körülbelül 19%-os növekedést jelent 2022-höz képest (19,2%).",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az adatok a 2025-ben leszállított főbb hagyományos fegyverek mennyiségét mutatják, SIPRI Trend-Indicator Values (TIV) – a katonai képességek, nem pedig az ár indexe – alapján mérve, tehát ezek mennyiségi részesedések, nem pedig pénzösszegek. Az engedélyezett gyártás az engedélyt kiadó országból történő importnak számít. A kézifegyverek, lőszerek, alkatrészek és szolgáltatások nem tartoznak ide. Luxemburg és Portugália 2025-ben semmit sem importált uniós beszállítóktól; Lettország, Málta és Szlovénia egyáltalán nem regisztrált szállítást.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
