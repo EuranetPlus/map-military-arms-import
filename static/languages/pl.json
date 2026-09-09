@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile krajów UE faktycznie kupuje produktów „Made in Europe” w dziedzinie obronności?",
+  "subtitle": "Import z innych państw członkowskich UE stanowił 22,9% broni dostarczonej do krajów UE w 2025 r., co oznacza wzrost o około 19% w porównaniu z 2022 r. (19,2%).",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Dane przedstawiają wolumen dostaw głównej broni konwencjonalnej w 2025 roku, mierzony wartościami SIPRI Trend-Indicator Values (TIV) – wskaźnikiem potencjału militarnego, a nie ceny, dlatego są to udziały wolumenowe, a nie wartości pieniężne. Produkcja objęta licencją jest liczona jako import z kraju udzielającego licencji. Broń strzelecka, amunicja, komponenty i usługi są wyłączone z obliczeń. Luksemburg i Portugalia nie importowały niczego od dostawców z UE w 2025 roku; Łotwa, Malta i Słowenia nie odnotowały żadnych dostaw.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "SIPRI (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
