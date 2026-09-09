@@ -1,13 +1,11 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How much do EU country actually buy Made in Europe when it comes to defence?",
+  "subtitle": "Imports from other EU member states accounted for 22.9% of the arms delivered to EU countries in 2025, an increase of around 19% compared to 2022 (19.2%).",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Figures show the volume of major conventional weapons delivered in 2025, measured in SIPRI Trend-Indicator Values (TIV) — an index of military capability, not price, so these are volume shares and not monetary amounts. Licensed production counts as an import from the country granting the licence. Small arms, ammunition, components and services are excluded. Luxembourg and Portugal imported nothing from EU suppliers in 2025; Latvia, Malta and Slovenia recorded no deliveries at all.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }
