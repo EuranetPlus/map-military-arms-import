@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju ostavad ELi riigid tegelikult kaitsetööstuses valmistatud tooteid Euroopas?",
+  "subtitle": "Import teistest ELi liikmesriikidest moodustas 2025. aastal ELi riikidesse tarnitud relvadest 22,9%, mis on umbes 19% rohkem kui 2022. aastal (19,2%).",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Arvud näitavad 2025. aastal tarnitud peamiste tavarelvade mahtu, mõõdetuna SIPRI trendinäitajate väärtustes (TIV) – see on sõjalise võimekuse, mitte hinna indeks, seega on tegemist mahuosa, mitte rahasummadega. Litsentsitud tootmine loetakse impordiks litsentsi andnud riigist. Väikerelvad, laskemoon, komponendid ja teenused on välja arvatud. Luksemburg ja Portugal ei importinud 2025. aastal ELi tarnijatelt midagi; Läti, Malta ja Sloveenia ei registreerinud üldse tarneid.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
