@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuánto compran realmente los países de la UE productos fabricados en Europa en lo que respecta a la defensa?",
+  "subtitle": "Las importaciones procedentes de otros Estados miembros de la UE representaron el 22,9% de las armas entregadas a los países de la UE en 2025, lo que supone un aumento de alrededor del 19% en comparación con 2022 (19,2%).",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Las cifras muestran el volumen de armas convencionales principales entregadas en 2025, medido en Valores Indicadores de Tendencia (TIV) del SIPRI, un índice de capacidad militar, no de precio; por lo tanto, se trata de porcentajes de volumen y no de cantidades monetarias. La producción bajo licencia se considera una importación del país que otorga la licencia. Se excluyen las armas pequeñas, la munición, los componentes y los servicios. Luxemburgo y Portugal no importaron nada de proveedores de la UE en 2025; Letonia, Malta y Eslovenia no registraron ninguna entrega.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
