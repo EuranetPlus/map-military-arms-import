@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz ES valstis faktiski iepērk Eiropā ražotus aizsardzības produktus?",
+  "subtitle": "Imports no citām ES dalībvalstīm veidoja 22,9 % no ieroču piegādes apjoma ES valstīm 2025. gadā, kas ir par aptuveni 19 % vairāk nekā 2022. gadā (19,2 %).",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Dati parāda 2025. gadā piegādāto galveno parasto ieroču apjomu, kas mērīts SIPRI tendenču indikatoru vērtībās (TIV) — militāro spēju, nevis cenas indeksā, tāpēc šīs ir apjoma daļas, nevis naudas summas. Licencēta ražošana tiek uzskatīta par importu no valsts, kas piešķīrusi licenci. Kājnieku ieroči, munīcija, sastāvdaļas un pakalpojumi nav iekļauti. Luksemburga un Portugāle 2025. gadā neko neimportēja no ES piegādātājiem; Latvija, Malta un Slovēnija vispār nereģistrēja piegādes.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
