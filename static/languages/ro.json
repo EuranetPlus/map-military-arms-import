@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât cumpără, de fapt, țările UE produse fabricate în Europa în domeniul apărării?",
+  "subtitle": "Importurile din alte state membre ale UE au reprezentat 22,9% din armele livrate către țările UE în 2025, o creștere de aproximativ 19% față de 2022 (19,2%).",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Cifrele arată volumul armelor convenționale majore livrate în 2025, măsurat în Valori ale Indicatorilor de Tendință SIPRI (TIV) - un indice al capacității militare, nu al prețului, deci acestea sunt cote de volum și nu sume monetare. Producția licențiată este considerată un import din țara care acordă licența. Armele de calibru mic, muniția, componentele și serviciile sunt excluse. Luxemburgul și Portugalia nu au importat nimic de la furnizorii din UE în 2025; Letonia, Malta și Slovenia nu au înregistrat nicio livrare.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
