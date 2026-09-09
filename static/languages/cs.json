@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik země EU ve skutečnosti nakupují zboží vyrobeného v Evropě, pokud jde o obranu?",
+  "subtitle": "Dovoz z ostatních členských států EU představoval 22,9 % zbraní dodaných do zemí EU v roce 2025, což představuje nárůst o přibližně 19 % ve srovnání s rokem 2022 (19,2 %).",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Údaje ukazují objem hlavních konvenčních zbraní dodaných v roce 2025, měřený v hodnotách trendových indikátorů SIPRI (TIV) – indexu vojenské schopnosti, nikoli ceny, takže se jedná o objemové podíly, nikoli o peněžní částky. Licencovaná výroba se započítává jako dovoz ze země, která licenci udělila. Ruční palné zbraně, střelivo, komponenty a služby jsou z údajů vyloučeny. Lucembursko a Portugalsko v roce 2025 od dodavatelů z EU nic nedovezly; Lotyšsko, Malta a Slovinsko nezaznamenaly žádné dodávky.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
