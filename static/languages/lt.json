@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek ES šalys iš tikrųjų perka „Made in Europe“ gynybos produktų?",
+  "subtitle": "Importas iš kitų ES valstybių narių sudarė 22,9 % visų 2025 m. į ES šalis pristatytų ginklų – tai apie 19 % daugiau nei 2022 m. (19,2 %).",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Duomenys rodo 2025 m. pristatytų pagrindinių įprastinių ginklų kiekį, išmatuotą pagal SIPRI tendencijų rodiklių vertes (TIV) – karinių pajėgumų, o ne kainos indeksą, todėl tai yra kiekio dalys, o ne piniginės sumos. Licencijuota gamyba laikoma importu iš licenciją išdavusios šalies. Šaulių ginklai, šaudmenys, komponentai ir paslaugos neįtraukiami. Liuksemburgas ir Portugalija 2025 m. iš ES tiekėjų nieko neimportavo; Latvija, Malta ir Slovėnija iš viso neužregistravo jokių pristatymų.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "SIPRI (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
