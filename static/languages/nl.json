@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel defensieproducten van Europese makelij kopen EU-landen nu eigenlijk?",
+  "subtitle": "In 2025 was 22,9% van de aan EU-landen geleverde wapens afkomstig uit andere EU-lidstaten, een stijging van ongeveer 19% ten opzichte van 2022 (19,2%).",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De cijfers tonen het volume van de belangrijkste conventionele wapens die in 2025 zijn geleverd, gemeten in SIPRI Trend-Indicator Values (TIV) – een index van militaire capaciteit, niet van prijs. Het gaat hier dus om volumeaandelen en niet om geldbedragen. Gelicentieerde productie telt als import uit het land dat de licentie verleent. Handvuurwapens, munitie, onderdelen en diensten zijn uitgesloten. Luxemburg en Portugal importeerden in 2025 niets van EU-leveranciers; Letland, Malta en Slovenië registreerden helemaal geen leveringen.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
