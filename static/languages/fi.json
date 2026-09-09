@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka paljon EU-maat todellisuudessa ostavat Made in Europe -tuotteita puolustustarvikkeiden osalta?",
+  "subtitle": "Muista EU-maista tuotujen aseiden osuus EU-maihin toimitetuista aseista oli 22,9 % vuonna 2025, mikä on noin 19 % enemmän kuin vuonna 2022 (19,2 %).",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Luvut osoittavat vuonna 2025 toimitettujen tärkeimpien tavanomaisten aseiden määrän mitattuna SIPRIn trendi-indikaattoriarvoilla (TIV) – sotilaallisen suorituskyvyn indeksillä, ei hinnalla, joten nämä ovat volyymiosuuksia eivätkä rahasummia. Lisensoitu tuotanto lasketaan tuonniksi luvan myöntävästä maasta. Pienaseet, ammukset, komponentit ja palvelut eivät sisälly tähän. Luxemburg ja Portugali eivät tuoneet mitään EU:n toimittajilta vuonna 2025; Latvia, Malta ja Slovenia eivät kirjanneet lainkaan toimituksia.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "SIPRI (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
